@@ -1,7 +1,6 @@
 name: WebAssembly Publish
 
 on: [push]
- # workflow_dispatch:
 
 defaults:
   run:
